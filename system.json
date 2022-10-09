@@ -3,10 +3,15 @@
   "title": "Mausritter",
   "description": "The unofficial Mausritter system for FoundryVTT.",
   "version": "0.1.4",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "V9",
+  "minimumCoreVersion": "V10",
+  "compatibleCoreVersion": "V10",
   "templateVersion": 2,
-  "author": "Futilrevenge",
+  "authors": [
+    {
+      "name": "Futilrevenge",
+      "flags": {}
+    }
+  ],
   "esmodules": [
     "module/mausritter.js"
   ],
