@@ -170,8 +170,15 @@
   "authors": [
     {
       "name": "daoktar",
-      "url": "https://github.com/daoktar",
-      "flags": {}
+      "url": "https://github.com/daoktar"
+    },
+    {
+      "name": "Futil",
+      "url": "https://github.com/Futil"
+    },
+    {
+      "name": "DiegoF824",
+      "url": "https://github.com/DiegoF824"
     }
   ],
   "compatibility": {
