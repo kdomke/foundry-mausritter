@@ -55,7 +55,7 @@ jobs:
           draft: false
           prerelease: false
           token: ${{ secrets.GITHUB_TOKEN }}
-          artifacts: "./module.json, ./package.zip"
+          artifacts: "./system.json, ./package.zip"
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
 #      - name: Publish Module to FoundryVTT Website
