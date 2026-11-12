@@ -162,9 +162,9 @@
     "distance": 1
   },
   "primaryTokenAttribute": "health",
-  "url": "https://github.com/daoktar/foundry-mausritter",
-  "manifest": "https://raw.githubusercontent.com/daoktar/foundry-mausritter/v14/system.json",
-  "download": "https://github.com/daoktar/foundry-mausritter/archive/refs/heads/v14.zip",
+  "url": "",
+  "manifest": "",
+  "download": "",
   "license": "LICENSE.txt",
   "id": "mausritter",
   "authors": [
@@ -179,6 +179,10 @@
     {
       "name": "DiegoF824",
       "url": "https://github.com/DiegoF824"
+    },
+    {
+      "name": "Kristian",
+      "url": "https://github.com/kdomke"
     }
   ],
   "compatibility": {
